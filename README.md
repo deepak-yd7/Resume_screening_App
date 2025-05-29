@@ -12,11 +12,17 @@ Improve Hiring Efficiency:- Help HR teams and recruiters quickly shortlist the b
 Support Customization:- Allow recruiters to adjust screening criteria depending on the job role or organization needs.
 
 #  How to Run the Project
+
 # Step 1:- Run the Jupyter Notebook
+
 Install Jupyter (if not already installed):  pip install notebook
+
 Launch the notebook: Navigate to the project directory (if needed), then run:
 
 # Step 2:- Run the Streamlit App
+
 Install Streamlit (if not already installed): pip install streamlit
+
 Run the Streamlit app: streamlit run app.py
+
 Access the app: Once launched, Streamlit will open the app in your default web browser, If not, visit http://localhost:8501 manually.
