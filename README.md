@@ -12,7 +12,7 @@ Improve Hiring Efficiency:- Help HR teams and recruiters quickly shortlist the b
 Support Customization:- Allow recruiters to adjust screening criteria depending on the job role or organization needs.
 
 #  How to Run the Project
-Step 1:- Run the Jupyter Notebook
+# Step 1:- Run the Jupyter Notebook
 Install Jupyter (if not already installed):  pip install notebook
 Launch the notebook: Navigate to the project directory (if needed), then run:
 
